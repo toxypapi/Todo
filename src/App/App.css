@@ -1,0 +1,7 @@
+.App main {
+  display: flex;
+}
+
+.App main > * {
+  flex: 1;
+}

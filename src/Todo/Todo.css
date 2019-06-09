@@ -1,0 +1,8 @@
+.todo {
+  line-height: 2em;
+  vertical-align: middle;
+}
+
+.todo.completed {
+  text-decoration: line-through;
+}

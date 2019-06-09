@@ -1,0 +1,13 @@
+.SideMenu {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 15rem;
+  top: 0;
+  background-color: white;
+  border-right: solid 1px;
+}
+
+.SideMenu ul {
+  list-style: none;
+}
